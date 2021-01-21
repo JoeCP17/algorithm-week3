@@ -10,3 +10,7 @@
 4. 병합 정렬 (merge)
 
 5. 백준 연습문제 연습 ㅎㅎ... 
+
+6. 스택 (Stack algorithm) 
+
+7. 스택 응용문제 (Stack applicated question)
